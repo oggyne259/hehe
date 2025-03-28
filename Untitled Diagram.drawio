@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2876" dy="2232" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1646" dy="1594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -198,6 +198,9 @@
         </mxCell>
         <mxCell id="X_06a-lyA5XukxG5UceO-66" value="action=list" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="20" y="465" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X_06a-lyA5XukxG5UceO-193" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="X_06a-lyA5XukxG5UceO-70" target="X_06a-lyA5XukxG5UceO-192">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="X_06a-lyA5XukxG5UceO-70" value="product-list.jsp" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-160" y="565" width="120" height="60" as="geometry" />
@@ -553,6 +556,19 @@
         </mxCell>
         <mxCell id="X_06a-lyA5XukxG5UceO-188" value="value=logout" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="140" y="580" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X_06a-lyA5XukxG5UceO-194" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.333;entryY=1.009;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="X_06a-lyA5XukxG5UceO-192" target="X_06a-lyA5XukxG5UceO-70">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-120" y="630" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-320" y="660" />
+              <mxPoint x="-120" y="660" />
+              <mxPoint x="-120" y="650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X_06a-lyA5XukxG5UceO-192" value="/EdgyStyle/product/search" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-390" y="580" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
