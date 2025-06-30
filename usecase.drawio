@@ -85,7 +85,7 @@
             <mxRectangle width="450" height="46" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zQHBRYjG8a3oshgaAN71-142" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;View Homepage&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="zQHBRYjG8a3oshgaAN71-142" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;View Homepage&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="220" y="200" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zQHBRYjG8a3oshgaAN71-143" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
@@ -253,8 +253,8 @@
             <mxRectangle width="450" height="46" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zQHBRYjG8a3oshgaAN71-182" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;strong&gt;Submit Medication Request&lt;/strong&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="210" y="960" width="180" height="50" as="geometry" />
+        <mxCell id="zQHBRYjG8a3oshgaAN71-182" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;strong&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Submit Medication Request&lt;/font&gt;&lt;/strong&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="170" y="955" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zQHBRYjG8a3oshgaAN71-183" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
           <mxGeometry x="-10" y="1425" width="560" height="274" as="geometry" />
@@ -337,8 +337,176 @@
             <mxRectangle width="450" height="46" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zQHBRYjG8a3oshgaAN71-202" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;strong&gt;Handle Medical Event&lt;/strong&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="225" y="1380" width="150" height="50" as="geometry" />
+        <mxCell id="zQHBRYjG8a3oshgaAN71-202" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;strong&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Handle Medical Event&lt;/font&gt;&lt;/strong&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="195" y="1375" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zQHBRYjG8a3oshgaAN71-203" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="920" y="240" width="560" height="274" as="geometry" />
+        </mxCell>
+        <mxCell id="zQHBRYjG8a3oshgaAN71-204" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="zQHBRYjG8a3oshgaAN71-203">
+          <mxGeometry width="560" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="zQHBRYjG8a3oshgaAN71-205" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;list&amp;quot;,{&amp;quot;spread&amp;quot;:false,&amp;quot;start&amp;quot;:103,&amp;quot;end&amp;quot;:522},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:103,&amp;quot;end&amp;quot;:177}]&quot;&gt;&lt;strong&gt;Goal:&lt;/strong&gt;&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="zQHBRYjG8a3oshgaAN71-204">
+          <mxGeometry width="110" height="46" as="geometry">
+            <mxRectangle width="110" height="46" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zQHBRYjG8a3oshgaAN71-206" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;p data-pm-slice=&quot;1 1 [&amp;quot;list&amp;quot;,{&amp;quot;spread&amp;quot;:false,&amp;quot;start&amp;quot;:2025,&amp;quot;end&amp;quot;:2447},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:2025,&amp;quot;end&amp;quot;:2072}]&quot;&gt;Manage student vaccination process.&lt;/p&gt;&lt;/blockquote&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="zQHBRYjG8a3oshgaAN71-204">
+          <mxGeometry x="110" width="450" height="46" as="geometry">
+            <mxRectangle width="450" height="46" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zQHBRYjG8a3oshgaAN71-207" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="zQHBRYjG8a3oshgaAN71-203">
+          <mxGeometry y="46" width="560" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="zQHBRYjG8a3oshgaAN71-208" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;list&amp;quot;,{&amp;quot;spread&amp;quot;:false,&amp;quot;start&amp;quot;:103,&amp;quot;end&amp;quot;:522},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:178,&amp;quot;end&amp;quot;:227}]&quot;&gt;&lt;strong&gt;Actors:&lt;/strong&gt;&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="zQHBRYjG8a3oshgaAN71-207">
+          <mxGeometry width="110" height="46" as="geometry">
+            <mxRectangle width="110" height="46" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zQHBRYjG8a3oshgaAN71-209" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;p data-pm-slice=&quot;1 1 [&amp;quot;list&amp;quot;,{&amp;quot;spread&amp;quot;:false,&amp;quot;start&amp;quot;:2025,&amp;quot;end&amp;quot;:2447},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:2073,&amp;quot;end&amp;quot;:2108}]&quot;&gt;Medical Staff, Parent&lt;/p&gt;&lt;/blockquote&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="zQHBRYjG8a3oshgaAN71-207">
+          <mxGeometry x="110" width="450" height="46" as="geometry">
+            <mxRectangle width="450" height="46" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zQHBRYjG8a3oshgaAN71-210" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="zQHBRYjG8a3oshgaAN71-203">
+          <mxGeometry y="92" width="560" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="zQHBRYjG8a3oshgaAN71-211" value="&lt;br&gt;&lt;p data-pm-slice=&quot;1 1 [&amp;quot;list&amp;quot;,{&amp;quot;spread&amp;quot;:false,&amp;quot;start&amp;quot;:103,&amp;quot;end&amp;quot;:522},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:228,&amp;quot;end&amp;quot;:282}]&quot;&gt;&lt;span&gt;&lt;strong&gt;Preconditions:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="zQHBRYjG8a3oshgaAN71-210">
+          <mxGeometry width="110" height="46" as="geometry">
+            <mxRectangle width="110" height="46" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zQHBRYjG8a3oshgaAN71-212" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;p data-pm-slice=&quot;1 1 [&amp;quot;list&amp;quot;,{&amp;quot;spread&amp;quot;:false,&amp;quot;start&amp;quot;:2025,&amp;quot;end&amp;quot;:2447},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:2109,&amp;quot;end&amp;quot;:2173}]&quot;&gt;School has scheduled a vaccination program.&lt;/p&gt;&lt;/blockquote&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="zQHBRYjG8a3oshgaAN71-210">
+          <mxGeometry x="110" width="450" height="46" as="geometry">
+            <mxRectangle width="450" height="46" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zQHBRYjG8a3oshgaAN71-213" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="zQHBRYjG8a3oshgaAN71-203">
+          <mxGeometry y="138" width="560" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="zQHBRYjG8a3oshgaAN71-214" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;list&amp;quot;,{&amp;quot;spread&amp;quot;:false,&amp;quot;start&amp;quot;:103,&amp;quot;end&amp;quot;:522},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:283,&amp;quot;end&amp;quot;:311}]&quot;&gt;&lt;strong&gt;Trigger:&lt;/strong&gt;&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="zQHBRYjG8a3oshgaAN71-213">
+          <mxGeometry width="110" height="44" as="geometry">
+            <mxRectangle width="110" height="44" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zQHBRYjG8a3oshgaAN71-215" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Initiation of vaccination campaign.&lt;/span&gt;&lt;/blockquote&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="zQHBRYjG8a3oshgaAN71-213">
+          <mxGeometry x="110" width="450" height="44" as="geometry">
+            <mxRectangle width="450" height="44" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zQHBRYjG8a3oshgaAN71-216" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="zQHBRYjG8a3oshgaAN71-203">
+          <mxGeometry y="182" width="560" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="zQHBRYjG8a3oshgaAN71-217" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;list&amp;quot;,{&amp;quot;spread&amp;quot;:false,&amp;quot;start&amp;quot;:103,&amp;quot;end&amp;quot;:522},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:435,&amp;quot;end&amp;quot;:522}]&quot;&gt;&lt;strong&gt;Postconditions:&lt;/strong&gt;&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="zQHBRYjG8a3oshgaAN71-216">
+          <mxGeometry width="110" height="46" as="geometry">
+            <mxRectangle width="110" height="46" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zQHBRYjG8a3oshgaAN71-218" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;p data-pm-slice=&quot;1 1 [&amp;quot;list&amp;quot;,{&amp;quot;spread&amp;quot;:false,&amp;quot;start&amp;quot;:2025,&amp;quot;end&amp;quot;:2447},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:2375,&amp;quot;end&amp;quot;:2447}]&quot;&gt;Vaccination results and side effects are recorded.&lt;/p&gt;&lt;/blockquote&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="zQHBRYjG8a3oshgaAN71-216">
+          <mxGeometry x="110" width="450" height="46" as="geometry">
+            <mxRectangle width="450" height="46" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zQHBRYjG8a3oshgaAN71-219" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="zQHBRYjG8a3oshgaAN71-203">
+          <mxGeometry y="228" width="560" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="zQHBRYjG8a3oshgaAN71-220" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="zQHBRYjG8a3oshgaAN71-219">
+          <mxGeometry width="110" height="46" as="geometry">
+            <mxRectangle width="110" height="46" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zQHBRYjG8a3oshgaAN71-221" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="zQHBRYjG8a3oshgaAN71-219">
+          <mxGeometry x="110" width="450" height="46" as="geometry">
+            <mxRectangle width="450" height="46" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zQHBRYjG8a3oshgaAN71-222" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;strong&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Manage Vaccination Process&lt;/font&gt;&lt;/strong&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1095" y="190" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zQHBRYjG8a3oshgaAN71-223" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="920" y="680" width="560" height="274" as="geometry" />
+        </mxCell>
+        <mxCell id="zQHBRYjG8a3oshgaAN71-224" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="zQHBRYjG8a3oshgaAN71-223">
+          <mxGeometry width="560" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="zQHBRYjG8a3oshgaAN71-225" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;list&amp;quot;,{&amp;quot;spread&amp;quot;:false,&amp;quot;start&amp;quot;:103,&amp;quot;end&amp;quot;:522},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:103,&amp;quot;end&amp;quot;:177}]&quot;&gt;&lt;strong&gt;Goal:&lt;/strong&gt;&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="zQHBRYjG8a3oshgaAN71-224">
+          <mxGeometry width="110" height="46" as="geometry">
+            <mxRectangle width="110" height="46" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zQHBRYjG8a3oshgaAN71-226" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;p data-pm-slice=&quot;1 1 [&amp;quot;list&amp;quot;,{&amp;quot;spread&amp;quot;:false,&amp;quot;start&amp;quot;:2502,&amp;quot;end&amp;quot;:2906},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:2502,&amp;quot;end&amp;quot;:2555}]&quot;&gt;&amp;nbsp;Conduct periodic student health checkups.&lt;/p&gt;&lt;/blockquote&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="zQHBRYjG8a3oshgaAN71-224">
+          <mxGeometry x="110" width="450" height="46" as="geometry">
+            <mxRectangle width="450" height="46" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zQHBRYjG8a3oshgaAN71-227" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="zQHBRYjG8a3oshgaAN71-223">
+          <mxGeometry y="46" width="560" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="zQHBRYjG8a3oshgaAN71-228" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;list&amp;quot;,{&amp;quot;spread&amp;quot;:false,&amp;quot;start&amp;quot;:103,&amp;quot;end&amp;quot;:522},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:178,&amp;quot;end&amp;quot;:227}]&quot;&gt;&lt;strong&gt;Actors:&lt;/strong&gt;&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="zQHBRYjG8a3oshgaAN71-227">
+          <mxGeometry width="110" height="46" as="geometry">
+            <mxRectangle width="110" height="46" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zQHBRYjG8a3oshgaAN71-229" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;p data-pm-slice=&quot;1 1 [&amp;quot;list&amp;quot;,{&amp;quot;spread&amp;quot;:false,&amp;quot;start&amp;quot;:2502,&amp;quot;end&amp;quot;:2906},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:2556,&amp;quot;end&amp;quot;:2591}]&quot;&gt;Medical Staff, Parent&lt;/p&gt;&lt;/blockquote&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="zQHBRYjG8a3oshgaAN71-227">
+          <mxGeometry x="110" width="450" height="46" as="geometry">
+            <mxRectangle width="450" height="46" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zQHBRYjG8a3oshgaAN71-230" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="zQHBRYjG8a3oshgaAN71-223">
+          <mxGeometry y="92" width="560" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="zQHBRYjG8a3oshgaAN71-231" value="&lt;br&gt;&lt;p data-pm-slice=&quot;1 1 [&amp;quot;list&amp;quot;,{&amp;quot;spread&amp;quot;:false,&amp;quot;start&amp;quot;:103,&amp;quot;end&amp;quot;:522},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:228,&amp;quot;end&amp;quot;:282}]&quot;&gt;&lt;span&gt;&lt;strong&gt;Preconditions:&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="zQHBRYjG8a3oshgaAN71-230">
+          <mxGeometry width="110" height="46" as="geometry">
+            <mxRectangle width="110" height="46" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zQHBRYjG8a3oshgaAN71-232" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;p data-pm-slice=&quot;1 1 [&amp;quot;list&amp;quot;,{&amp;quot;spread&amp;quot;:false,&amp;quot;start&amp;quot;:2502,&amp;quot;end&amp;quot;:2906},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:2592,&amp;quot;end&amp;quot;:2646}]&quot;&gt;School has a health checkup plan.&lt;/p&gt;&lt;/blockquote&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="zQHBRYjG8a3oshgaAN71-230">
+          <mxGeometry x="110" width="450" height="46" as="geometry">
+            <mxRectangle width="450" height="46" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zQHBRYjG8a3oshgaAN71-233" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="zQHBRYjG8a3oshgaAN71-223">
+          <mxGeometry y="138" width="560" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="zQHBRYjG8a3oshgaAN71-234" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;list&amp;quot;,{&amp;quot;spread&amp;quot;:false,&amp;quot;start&amp;quot;:103,&amp;quot;end&amp;quot;:522},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:283,&amp;quot;end&amp;quot;:311}]&quot;&gt;&lt;strong&gt;Trigger:&lt;/strong&gt;&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="zQHBRYjG8a3oshgaAN71-233">
+          <mxGeometry width="110" height="44" as="geometry">
+            <mxRectangle width="110" height="44" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zQHBRYjG8a3oshgaAN71-235" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;p data-pm-slice=&quot;1 1 [&amp;quot;list&amp;quot;,{&amp;quot;spread&amp;quot;:false,&amp;quot;start&amp;quot;:2502,&amp;quot;end&amp;quot;:2906},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:2647,&amp;quot;end&amp;quot;:2693}]&quot;&gt;Scheduling of periodic checkup.&lt;/p&gt;&lt;/blockquote&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="zQHBRYjG8a3oshgaAN71-233">
+          <mxGeometry x="110" width="450" height="44" as="geometry">
+            <mxRectangle width="450" height="44" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zQHBRYjG8a3oshgaAN71-236" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="zQHBRYjG8a3oshgaAN71-223">
+          <mxGeometry y="182" width="560" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="zQHBRYjG8a3oshgaAN71-237" value="&lt;p data-pm-slice=&quot;1 1 [&amp;quot;list&amp;quot;,{&amp;quot;spread&amp;quot;:false,&amp;quot;start&amp;quot;:103,&amp;quot;end&amp;quot;:522},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:435,&amp;quot;end&amp;quot;:522}]&quot;&gt;&lt;strong&gt;Postconditions:&lt;/strong&gt;&lt;/p&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="zQHBRYjG8a3oshgaAN71-236">
+          <mxGeometry width="110" height="46" as="geometry">
+            <mxRectangle width="110" height="46" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zQHBRYjG8a3oshgaAN71-238" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;p data-pm-slice=&quot;1 1 [&amp;quot;list&amp;quot;,{&amp;quot;spread&amp;quot;:false,&amp;quot;start&amp;quot;:2502,&amp;quot;end&amp;quot;:2906},&amp;quot;regular_list_item&amp;quot;,{&amp;quot;start&amp;quot;:2850,&amp;quot;end&amp;quot;:2906}]&quot;&gt;Checkup data is stored and shared.&lt;/p&gt;&lt;/blockquote&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" vertex="1" parent="zQHBRYjG8a3oshgaAN71-236">
+          <mxGeometry x="110" width="450" height="46" as="geometry">
+            <mxRectangle width="450" height="46" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zQHBRYjG8a3oshgaAN71-239" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="zQHBRYjG8a3oshgaAN71-223">
+          <mxGeometry y="228" width="560" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="zQHBRYjG8a3oshgaAN71-240" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="zQHBRYjG8a3oshgaAN71-239">
+          <mxGeometry width="110" height="46" as="geometry">
+            <mxRectangle width="110" height="46" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zQHBRYjG8a3oshgaAN71-241" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="zQHBRYjG8a3oshgaAN71-239">
+          <mxGeometry x="110" width="450" height="46" as="geometry">
+            <mxRectangle width="450" height="46" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zQHBRYjG8a3oshgaAN71-242" value="&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;&lt;strong&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Manage Periodic Health Checkups&lt;/font&gt;&lt;/strong&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="630" width="320" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
