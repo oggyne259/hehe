@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.6">
   <diagram name="Page-1" id="LWbWL29RjRS-fiWKLk37">
-    <mxGraphModel dx="3453" dy="3058" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1625" dy="2021" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -233,7 +233,7 @@
           <mxGeometry height="17" width="258" y="165.45454545454544" as="geometry" />
         </mxCell>
         <mxCell id="xk5sqY9qqWq6xTIcColV-77" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=35.55555555555556;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" value="WasteReport" vertex="1">
-          <mxGeometry height="161.55555555555554" width="345" x="3729" y="901" as="geometry" />
+          <mxGeometry height="161.55555555555554" width="345" x="3760" y="950" as="geometry" />
         </mxCell>
         <mxCell id="xk5sqY9qqWq6xTIcColV-78" parent="xk5sqY9qqWq6xTIcColV-77" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" value="+reportId:UUID" vertex="1">
           <mxGeometry height="36" width="345" y="35.55555555555556" as="geometry" />
@@ -364,8 +364,14 @@
         <mxCell id="xk5sqY9qqWq6xTIcColV-115" parent="xk5sqY9qqWq6xTIcColV-113" style="edgeLabel;resizable=0;labelBackgroundColor=none;fontSize=12;align=right;verticalAlign=top;" value="1" vertex="1">
           <mxGeometry relative="1" x="1" as="geometry" />
         </mxCell>
-        <mxCell id="xk5sqY9qqWq6xTIcColV-116" edge="1" parent="1" source="xk5sqY9qqWq6xTIcColV-77" style="startArrow=none;endArrow=open;endSize=12;exitX=0.84;exitY=1;entryX=0;entryY=0.5;rounded=0;edgeStyle=orthogonalEdgeStyle;" target="xk5sqY9qqWq6xTIcColV-82" value="area">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="xk5sqY9qqWq6xTIcColV-116" edge="1" parent="1" source="xk5sqY9qqWq6xTIcColV-77" style="startArrow=none;endArrow=open;endSize=12;exitX=0.84;exitY=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" value="area">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4050" y="1160" />
+              <mxPoint x="4219" y="1160" />
+            </Array>
+            <mxPoint x="4219" y="1160" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="xk5sqY9qqWq6xTIcColV-117" parent="xk5sqY9qqWq6xTIcColV-116" style="edgeLabel;resizable=0;labelBackgroundColor=none;fontSize=12;align=left;verticalAlign=bottom;" value="*" vertex="1">
           <mxGeometry relative="1" x="-1" as="geometry" />
@@ -380,15 +386,26 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xk5sqY9qqWq6xTIcColV-121" edge="1" parent="1" source="xk5sqY9qqWq6xTIcColV-32" style="dashed=1;startArrow=none;endArrow=open;endSize=12;exitX=1;exitY=0.31;entryX=0.27;entryY=1;rounded=0;edgeStyle=orthogonalEdgeStyle;" target="xk5sqY9qqWq6xTIcColV-71" value="collector/enterprise name">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2343" y="940" />
+              <mxPoint x="4259" y="940" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="xk5sqY9qqWq6xTIcColV-122" edge="1" parent="1" source="xk5sqY9qqWq6xTIcColV-38" style="dashed=1;startArrow=none;endArrow=open;endSize=12;exitX=0.998;exitY=0.178;entryX=0;entryY=0.69;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;exitPerimeter=0;" target="xk5sqY9qqWq6xTIcColV-77" value="reportId">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xk5sqY9qqWq6xTIcColV-123" edge="1" parent="1" source="xk5sqY9qqWq6xTIcColV-32" style="dashed=1;startArrow=none;endArrow=open;endSize=12;exitX=1;exitY=0.69;entryX=0;entryY=0.6;rounded=0;edgeStyle=orthogonalEdgeStyle;" target="xk5sqY9qqWq6xTIcColV-82" value="areaName">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="xk5sqY9qqWq6xTIcColV-123" edge="1" parent="1" source="xk5sqY9qqWq6xTIcColV-32" style="dashed=1;startArrow=none;endArrow=open;endSize=12;exitX=1;exitY=0.69;entryX=0;entryY=0.5;rounded=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;" target="xk5sqY9qqWq6xTIcColV-85" value="areaName">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3281" y="1101" />
+              <mxPoint x="3281" y="1190" />
+              <mxPoint x="4219" y="1190" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
